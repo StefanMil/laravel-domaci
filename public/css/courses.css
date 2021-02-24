@@ -1,0 +1,31 @@
+#title {
+    margin-bottom: 20px;
+}
+
+#description {
+    margin-bottom: 20px;
+}
+
+#semester {
+    margin-bottom: 20px;
+}
+
+#espb {
+    margin-bottom: 20px;
+}
+
+.button-enroll {
+    width: 100px;
+}
+
+.estudent {
+    color:black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.edit-title {
+    color: black;
+    font-weight: bold;
+    margin-top:5px;
+}
